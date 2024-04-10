@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hris\\hris-dotnet-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\dialogs\\userdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\dialogs\\userdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\dialogs\\departmentdiaglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\dialogs\\departmentdiaglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\thumb\\thumbticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\thumb\\thumbticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\department\\departmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\department\\departmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\hr\\hrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\hr\\hrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\department\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\department\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\hr\\ihrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\hr\\ihrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\hr\\hrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\hr\\hrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\hr\\hrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\hr\\hrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\hr\\ihrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\hr\\ihrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\department\\idepartmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\department\\idepartmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\views\\department\\departmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\department\\departmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|d:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\salary\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\salary\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\presenters\\salarypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenters\\salarypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\salary\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\salary\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\dialogs\\departmentdiaglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\dialogs\\departmentdiaglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\salary\\isalaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\salary\\isalaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\salary\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\salary\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\presenters\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenters\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\presenters\\mainviewpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenters\\mainviewpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\_repository\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\login\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\login\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\login\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\login\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\presenters\\thumbticketpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenters\\thumbticketpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\presenters\\mainindividualpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenters\\mainindividualpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\login\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\login\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|D:\\hris\\hris-dotnet-main\\hrmngt\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDialog.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\UserDialog.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Dialogs\\UserDialog.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\UserDialog.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Dialogs\\UserDialog.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:16:02.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThumbTicketRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Thumb\\ThumbTicketRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\Thumb\\ThumbTicketRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Thumb\\ThumbTicketRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\Thumb\\ThumbTicketRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:05:07.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDiaglog.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:01:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Department\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\Department\\DepartmentRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Department\\DepartmentRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\Department\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:56:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\HR\\HRRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\HR\\HRRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\HR\\HRRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\HR\\HRRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:52:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHRRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\HR\\IHRRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\HR\\IHRRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\HR\\IHRRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\HR\\IHRRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:52:06.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepartmentView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\IDepartmentView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Department\\IDepartmentView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\IDepartmentView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Department\\IDepartmentView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:46:36.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HRView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\HRView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\HR\\HRView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\HRView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\HR\\HRView.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:46:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentView.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\DepartmentView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Department\\DepartmentView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\DepartmentView.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\Department\\DepartmentView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:45:13.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRView.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\HRView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\HR\\HRView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\HRView.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\HR\\HRView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:44:55.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHRView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\IHRView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\HR\\IHRView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\HR\\IHRView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\HR\\IHRView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:44:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Salary\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\Salary\\SalaryRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Salary\\SalaryRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\Salary\\SalaryRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:50:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalaryPresenter.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\SalaryPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenters\\SalaryPresenter.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\SalaryPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenters\\SalaryPresenter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:46:03.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\DepartmentView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Department\\DepartmentView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Department\\DepartmentView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Department\\DepartmentView.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:33:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentDiaglog.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\Dialogs\\DepartmentDiaglog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:33:49.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISalaryView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\ISalaryView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Salary\\ISalaryView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\ISalaryView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Salary\\ISalaryView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:31:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalaryView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\SalaryView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Salary\\SalaryView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\SalaryView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Salary\\SalaryView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:42.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalaryView.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\SalaryView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Salary\\SalaryView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Salary\\SalaryView.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\Salary\\SalaryView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:40.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Program.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Program.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Program.cs",
+              "RelativeToolTip": "HRMngt\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:53:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\MainView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\MainView.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:42:06.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ThumbTicketPresenter.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\ThumbTicketPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenters\\ThumbTicketPresenter.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\ThumbTicketPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenters\\ThumbTicketPresenter.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:39:30.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainIndividualPresenter.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\MainIndividualPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenters\\MainIndividualPresenter.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\MainIndividualPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenters\\MainIndividualPresenter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:38:57.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginView.cs [Design]",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\LoginView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Login\\LoginView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\LoginView.cs [Design]",
+              "RelativeToolTip": "HRMngt\\Views\\Login\\LoginView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:28:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILoginView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\ILoginView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Login\\ILoginView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\ILoginView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Login\\ILoginView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:25:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Login\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\Login\\LoginRepository.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\_Repository\\Login\\LoginRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\Login\\LoginRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:21:57.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginPresenter.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\LoginPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenters\\LoginPresenter.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\LoginPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenters\\LoginPresenter.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:20:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\LoginView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\Login\\LoginView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\Login\\LoginView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\Login\\LoginView.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:18:07.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\MainView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\MainView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\MainView.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:17:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\IMainView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Views\\IMainView.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Views\\IMainView.cs",
+              "RelativeToolTip": "HRMngt\\Views\\IMainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:16:47.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainViewPresenter.cs",
+              "DocumentMoniker": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\MainViewPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenters\\MainViewPresenter.cs",
+              "ToolTip": "D:\\hris\\hris-dotnet-main\\HRMngt\\Presenters\\MainViewPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenters\\MainViewPresenter.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:15:18.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
